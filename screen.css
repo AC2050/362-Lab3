@@ -57,6 +57,11 @@ table {
 
 /*end reset*/
 
+body {
+	background-color: black;
+	color: green;
+}
+
 section {
 	text-align: center;
 	margin-left: auto;
